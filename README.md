@@ -14,7 +14,3 @@ TOKEN=BOTTOKEN
 operators=0,0
 clientId=0
 ```
-
-# devbot public
-Devbot is publicly available as a Discord bot. [Invite](https://discord.com/api/oauth2/authorize?client_id=732280990323441704&permissions=8&scope=bot) devbot to your discord server today!
-Devbot is still in early stages of development. Please report bugs and provide feedback on the [issues](https://github.com/windingtheropes/devbot/issues) page.

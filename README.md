@@ -1,4 +1,6 @@
 # devbot 
+No longer maintained (2020-2023).
+
 Devbot is a multipurpose Discord bot with various features. It is written entirely in javascript. See the update changelog at [CHANGELOG.md](https://github.com/alacriware/devbot/blob/canary/CHANGELOG.md).
 
 # deploying with nodejs
